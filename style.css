@@ -11,11 +11,16 @@ body{
 }
 
 h1{
-    font-size: 39px;
-    font-weight: bolder;
+    font-size: 40px;
+    font-weight:900;
     text-align: center;
     margin: 40px 0 60px 0;
-    color:#1a5062;
+    color:transparent;
+    background-image: url(https://images.unsplash.com/photo-1440749395129-76b2ae3df520?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-clip: text;
+    -webkit-background-clip: text;
 }
 span{
     width: 100px;
@@ -27,7 +32,7 @@ span a{
 span img{
     width: 60px;
     height: 70px;
-    color: wheat;
+   
    
 }
 form{
