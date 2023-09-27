@@ -76,7 +76,7 @@ showMore.addEventListener("click", () => {
 
 // -----------------Scroll button-------------------
 // Select the element with class "to-top"
-const toTop = document.querySelector(".to-top");
+const toTop = document.querySelector(".scrollButton");
 
 // Add a scroll event listener
 window.addEventListener("scroll", () => {
